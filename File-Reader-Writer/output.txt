@@ -1,3 +1,2 @@
 Total Lines: 2
-Total Words: Hello 
-this is Node js
+Total Words: 6
